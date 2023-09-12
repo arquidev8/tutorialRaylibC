@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\raylib\raylib\projects\Tutorial\build\CMakeFiles\c590bd634451d1bbf656ef33527601c1\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\raylib\raylib\projects\Tutorial\build\_deps\raylib-src\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\build\_deps\raylib-src</Filter>
+    </None>
+    <None Include="C:\raylib\raylib\projects\Tutorial\build\_deps\raylib-src\CMakeOptions.txt">
+      <Filter>Buildsystem Input Files\build\_deps\raylib-src</Filter>
+    </None>
+    <None Include="C:\raylib\raylib\projects\Tutorial\build\_deps\raylib-src\cmake\AddIfFlagCompiles.cmake">
+      <Filter>Buildsystem Input Files\build\_deps\raylib-src\cmake</Filter>
+    </None>
+    <None Include="C:\raylib\raylib\projects\Tutorial\build\_deps\raylib-src\cmake\BuildOptions.cmake">
+      <Filter>Buildsystem Input Files\build\_deps\raylib-src\cmake</Filter>
+    </None>
+    <None Include="C:\raylib\raylib\projects\Tutorial\build\_deps\raylib-src\cmake\CompileDefinitions.cmake">
+      <Filter>Buildsystem Input Files\build\_deps\raylib-src\cmake</Filter>
+    </None>
+    <None Include="C:\raylib\raylib\projects\Tutorial\build\_deps\raylib-src\cmake\CompilerFlags.cmake">
+      <Filter>Buildsystem Input Files\build\_deps\raylib-src\cmake</Filter>
+    </None>
+    <None Include="C:\raylib\raylib\projects\Tutorial\build\_deps\raylib-src\cmake\EnumOption.cmake">
+      <Filter>Buildsystem Input Files\build\_deps\raylib-src\cmake</Filter>
+    </None>
+    <None Include="C:\raylib\raylib\projects\Tutorial\build\_deps\raylib-src\cmake\GlfwImport.cmake">
+      <Filter>Buildsystem Input Files\build\_deps\raylib-src\cmake</Filter>
+    </None>
+    <None Include="C:\raylib\raylib\projects\Tutorial\build\_deps\raylib-src\cmake\InstallConfigurations.cmake">
+      <Filter>Buildsystem Input Files\build\_deps\raylib-src\cmake</Filter>
+    </None>
+    <None Include="C:\raylib\raylib\projects\Tutorial\build\_deps\raylib-src\cmake\JoinPaths.cmake">
+      <Filter>Buildsystem Input Files\build\_deps\raylib-src\cmake</Filter>
+    </None>
+    <None Include="C:\raylib\raylib\projects\Tutorial\build\_deps\raylib-src\cmake\LibraryConfigurations.cmake">
+      <Filter>Buildsystem Input Files\build\_deps\raylib-src\cmake</Filter>
+    </None>
+    <None Include="C:\raylib\raylib\projects\Tutorial\build\_deps\raylib-src\cmake\LibraryPathToLinkerFlags.cmake">
+      <Filter>Buildsystem Input Files\build\_deps\raylib-src\cmake</Filter>
+    </None>
+    <None Include="C:\raylib\raylib\projects\Tutorial\build\_deps\raylib-src\cmake\PackConfigurations.cmake">
+      <Filter>Buildsystem Input Files\build\_deps\raylib-src\cmake</Filter>
+    </None>
+    <None Include="C:\raylib\raylib\projects\Tutorial\build\_deps\raylib-src\cmake\PopulateConfigVariablesLocally.cmake">
+      <Filter>Buildsystem Input Files\build\_deps\raylib-src\cmake</Filter>
+    </None>
+    <None Include="C:\raylib\raylib\projects\Tutorial\build\_deps\raylib-src\cmake\raylib-config-version.cmake">
+      <Filter>Buildsystem Input Files\build\_deps\raylib-src\cmake</Filter>
+    </None>
+    <None Include="C:\raylib\raylib\projects\Tutorial\build\_deps\raylib-src\raylib.pc.in">
+      <Filter>Buildsystem Input Files\build\_deps\raylib-src</Filter>
+    </None>
+    <None Include="C:\raylib\raylib\projects\Tutorial\build\_deps\raylib-src\src\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\build\_deps\raylib-src\src</Filter>
+    </None>
+    <None Include="C:\raylib\raylib\projects\Tutorial\build\_deps\raylib-src\src\external\glfw\CMake\glfw3.pc.in">
+      <Filter>Buildsystem Input Files\build\_deps\raylib-src\src\external\glfw\CMake</Filter>
+    </None>
+    <None Include="C:\raylib\raylib\projects\Tutorial\build\_deps\raylib-src\src\external\glfw\CMake\glfw3Config.cmake.in">
+      <Filter>Buildsystem Input Files\build\_deps\raylib-src\src\external\glfw\CMake</Filter>
+    </None>
+    <None Include="C:\raylib\raylib\projects\Tutorial\build\_deps\raylib-src\src\external\glfw\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\build\_deps\raylib-src\src\external\glfw</Filter>
+    </None>
+    <None Include="C:\raylib\raylib\projects\Tutorial\build\_deps\raylib-src\src\external\glfw\src\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\build\_deps\raylib-src\src\external\glfw\src</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7A01F3DB-E944-3ED6-925F-36796E4B8F54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{4C414202-060E-395C-8251-5A4888F5C541}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\build\_deps\raylib-src">
+      <UniqueIdentifier>{D9BDE28C-D4D0-3AC3-875F-8A54F4C41AD2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\build\_deps\raylib-src\cmake">
+      <UniqueIdentifier>{3C9EBEBC-8C05-32CB-B2AD-D97AA514D628}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\build\_deps\raylib-src\src">
+      <UniqueIdentifier>{75A0AC56-6A2F-311D-AEB2-160DC694C47D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\build\_deps\raylib-src\src\external\glfw">
+      <UniqueIdentifier>{4E0C2BA9-699D-3D01-9041-9E062E4CC8CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\build\_deps\raylib-src\src\external\glfw\CMake">
+      <UniqueIdentifier>{FD260E19-7ADF-383E-97F4-3D787BC78CD8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\build\_deps\raylib-src\src\external\glfw\src">
+      <UniqueIdentifier>{2F23058D-C9FB-314E-A0A6-0B13B9D55D3D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

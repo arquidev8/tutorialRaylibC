@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/raylib/raylib/projects/Tutorial/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate"
+		},
+		{
+			"file" : "C:/raylib/raylib/projects/Tutorial/build/_deps/raylib-subbuild/CMakeFiles/cee2e556c27688535adcd5e55a65ab19/raylib-populate.rule"
+		},
+		{
+			"file" : "C:/raylib/raylib/projects/Tutorial/build/_deps/raylib-subbuild/CMakeFiles/32faa9df383fd86cf6c26cc89ecd3d3c/raylib-populate-complete.rule"
+		},
+		{
+			"file" : "C:/raylib/raylib/projects/Tutorial/build/_deps/raylib-subbuild/CMakeFiles/e027535d60a616a2ce193101a2b49e59/raylib-populate-build.rule"
+		},
+		{
+			"file" : "C:/raylib/raylib/projects/Tutorial/build/_deps/raylib-subbuild/CMakeFiles/e027535d60a616a2ce193101a2b49e59/raylib-populate-configure.rule"
+		},
+		{
+			"file" : "C:/raylib/raylib/projects/Tutorial/build/_deps/raylib-subbuild/CMakeFiles/e027535d60a616a2ce193101a2b49e59/raylib-populate-download.rule"
+		},
+		{
+			"file" : "C:/raylib/raylib/projects/Tutorial/build/_deps/raylib-subbuild/CMakeFiles/e027535d60a616a2ce193101a2b49e59/raylib-populate-install.rule"
+		},
+		{
+			"file" : "C:/raylib/raylib/projects/Tutorial/build/_deps/raylib-subbuild/CMakeFiles/e027535d60a616a2ce193101a2b49e59/raylib-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/raylib/raylib/projects/Tutorial/build/_deps/raylib-subbuild/CMakeFiles/e027535d60a616a2ce193101a2b49e59/raylib-populate-patch.rule"
+		},
+		{
+			"file" : "C:/raylib/raylib/projects/Tutorial/build/_deps/raylib-subbuild/CMakeFiles/e027535d60a616a2ce193101a2b49e59/raylib-populate-test.rule"
+		},
+		{
+			"file" : "C:/raylib/raylib/projects/Tutorial/build/_deps/raylib-subbuild/CMakeFiles/e027535d60a616a2ce193101a2b49e59/raylib-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"raylib-populate"
+		],
+		"name" : "raylib-populate"
+	}
+}
